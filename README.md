@@ -9,6 +9,7 @@ One strand of genomic DNA (strand A,coding strand) contains the following sequen
 This strand will form the following duplex (replication)
 
 5’- TCGTCGACGATGATCATCGGCTTACTCGA – 3’
+
 3'- AGCAGCUGCUACUAGUAGCCGAAUGAGCU - 5'
 
 The sequence of bases in the other strand of DNA (strand B) written 5’ – to 3’ – is therefore
