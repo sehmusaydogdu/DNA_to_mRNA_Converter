@@ -1,0 +1,18 @@
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\bin\Debug\DNA_to_MRNA_converter.exe.config
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\bin\Debug\DNA_to_MRNA_converter.exe
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\bin\Debug\DNA_to_MRNA_converter.pdb
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.Form1.resources
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.Properties.Resources.resources
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.exe
+C:\Users\acer\Desktop\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.pdb
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\bin\Debug\DNA_to_MRNA_converter.exe.config
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.exe
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.pdb
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\bin\Debug\DNA_to_MRNA_converter.exe
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\bin\Debug\DNA_to_MRNA_converter.pdb
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.csprojResolveAssemblyReference.cache
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.Form1.resources
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.Properties.Resources.resources
+E:\Lesson Notes\Odevler\Biyoenformatik-1\DNA_to_MRNA_converter\obj\Debug\DNA_to_MRNA_converter.csproj.GenerateResource.Cache
