@@ -1,6 +1,6 @@
 
 
-DNA_to_mRNA_Converter
+#DNA_to_mRNA_Converter
 
 One strand of genomic DNA (strand A,coding strand) contains the following sequence reading from 5' - to 3' -;
 
